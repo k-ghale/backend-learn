@@ -4,6 +4,9 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+// my github profile
+// i prolly should not upload it on github
+// but i dont care
 const gitHubData = {
   "login": "kghale",
   "id": 13732979,
